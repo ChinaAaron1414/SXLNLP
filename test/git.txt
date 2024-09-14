@@ -1,0 +1,9 @@
+git clone -b 分支名 git地址（http的那个）
+
+git add . --全添加 
+git add 文件名 指定文件
+
+
+git commit -m "注释" 
+
+git push 
